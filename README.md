@@ -5,4 +5,12 @@ Developing a clone of Instagram using React Native requires putting up a phone a
 ![WhatsApp Image 2024-07-20 at 22 54 25_d046805a](https://github.com/user-attachments/assets/d14fafe5-371d-41f3-8046-e4115540d4c9)
 
 # how-to-use
+-git clone https://github.com/1hbb/react-native-instagram-clone.git
+-cd Instagram
+-npm install
+-yarn install
+-cd ios
+-pod install
+-cd ..
+-react-native run-ios or react-native run-android
 
