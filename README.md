@@ -12,7 +12,7 @@ Developing a clone of Instagram using React Native requires putting up a phone a
 # Screen(Home)
 ![WhatsApp Image 2024-07-20 at 22 54 24_5db5b90c](https://github.com/user-attachments/assets/f2665871-868d-430a-abbf-93c8b7cc65a6)
 # how-to-use
-- git clone 
+- git clone https://github.com/ritisha-24/instagram-clone.git
 
 - cd Instagram
 
